@@ -90,7 +90,7 @@ IPTV少儿动画,http://www.weec.top:2222/udp/239.3.1.199:9000
 
 
 地方综合,#genre#
-北京少儿,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
 
 吉林都市,http://live1.jzjsnm.cn/live1/jishidushi.m3u8?auth_key=1674380330033-0-0-b8c9ed7f3a790cf65454850352106e7e
 吉林影视,http://live1.jzjsnm.cn/live1/jishiyingshi.m3u8?auth_key=1674380437010-0-0-2823bd78571c8e4ad0fa5a7c79736217
