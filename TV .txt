@@ -342,7 +342,15 @@ YBTV-2,rtsp://139.215.98.88/PLTV/88888888/224/3221226047/10000100000000060000000
 Q版三国剧集,http://159.75.85.63:35455/huya/29465871#http://cfss.cc/cdn/hy/29465871.m3u8
 粤语配音电影,http://cfss.cc/cdn/yy/1356262523.m3u8
 
-
+开心鬼系列,#genre#
+开心鬼,https://yzzy.play-cdn3.com/20220513/21654_4704ed69/index.m3u8
+欢天喜地开心鬼,https://yzzy.play-cdn4.com/20220603/16502_e52ab28d/index.m3u8
+开心鬼放暑假,https://yzzy.play-cdn3.com/20220513/21658_759d269c/index.m3u8
+开心鬼,https://yzzy.play-cdn2.com/20220503/17854_a81ce10c/index.m3u8
+开心鬼撞鬼,https://yzzy.play-cdn3.com/20220513/21654_4704ed69/index.m3u8
+开心鬼上错身,https://bfikuncdn.com/20221210/Zm5wAB2e/index.m3u8
+开心鬼救开心鬼,https://bfikuncdn.com/20221209/o9DBsTnx/index.m3u8
+富贵开心鬼,https://vod.lyhuicheng.com/jqp/MYEgFyYH/index.m3u8
 
 电视剧,#genre#
 电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
